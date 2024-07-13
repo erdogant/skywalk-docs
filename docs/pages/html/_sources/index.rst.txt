@@ -69,10 +69,18 @@ Content
 =======
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Subscriptions
+   
+   Subscription
+
+
+.. toctree::
   :maxdepth: 1
   :caption: Quick start
 
   general
+
 
 .. toctree::
   :maxdepth: 1
@@ -119,12 +127,6 @@ Content
 
   settings_profile
 
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Subscription
-   
-   Subscription
 
 .. toctree::
    :maxdepth: 1
