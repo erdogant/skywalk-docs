@@ -1,6 +1,16 @@
 Introduction to Flight Preparation
 *************************************
 
+.. |fig1| image:: ../figs/eric-bruton-WeG7R-iGkHY-unsplash.jpg
+
+.. table:: 
+   :align: center
+
+   +----------+
+   | |fig1|   |
+   +----------+
+
+
 Flight preparation is a complex process that requires many steps of planning and organizing essential details before a flight.
 It encompasses tasks such as assessing weather conditions, determining aircraft performance capabilities, calculating fuel requirements, and ensuring compliance with regulatory guidelines.
 Effective flight preparation is crucial for enhancing safety, efficiency, and adherence to flight schedules.

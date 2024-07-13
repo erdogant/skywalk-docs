@@ -1,10 +1,8 @@
 Skywalk's Documentation!
 ========================
 
-.. note::
-    SkyWalk is a tool that is developed to help pilots become more aware of the various aspects of their flight plan as it can address situations that may need extra attention.
 
-.. |fig1| image:: ../figs/eric-bruton-WeG7R-iGkHY-unsplash.jpg
+.. |fig1| image:: ../figs/Slide1.PNG
 
 .. table:: 
    :align: center
@@ -12,6 +10,9 @@ Skywalk's Documentation!
    +----------+
    | |fig1|   |
    +----------+
+
+.. note::
+    SkyWalk is a tool that is developed to help pilots become more aware of the various aspects of their flight plan as it can address situations that may need extra attention.
 
 -----------------------------------
 
