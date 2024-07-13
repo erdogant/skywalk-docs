@@ -8,7 +8,7 @@
 
 ## Blog/Documentation
 * [**SkyWalk-docs documentation pages (Sphinx)**](https://erdogant.github.io/skywalk-docs/)
-* <a href="https://erdogant.github.io/SkyWalk-docs/"> <img src="https://img.shields.io/badge/Sphinx-Docs-Green" alt="Open documentation pages"/> </a>
+* <a href="https://erdogant.github.io/skywalk-docs/"> <img src="https://img.shields.io/badge/Sphinx-Docs-Green" alt="Open documentation pages"/> </a>
 
 
 ## Blog
