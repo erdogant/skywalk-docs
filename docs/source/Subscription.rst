@@ -32,34 +32,7 @@ Both plans have the same functionalities but the yearly subscription offers a 3 
     * Subscriptions can easily be stopped, renewed or otherwise managed.
 
 
-.. raw:: html
-
-	<hr>
-	<center>
-                    <script async
-                      src="https://js.stripe.com/v3/buy-button.js">
-                    </script>
-
-                    <stripe-buy-button
-                      buy-button-id="buy_btn_1Pa2DpJMk7E9vbKm3YlkqYIH"
-                      publishable-key="pk_live_51PCRE0JMk7E9vbKmbF9HDjTWn55KRy5agRkuSBIR189izujL3DadWYKxYozwzmxb4rnYoR2sX96xA9nt2sz4uO8S008lETii6p"
-                    >
-                    </stripe-buy-button>
-
-
-                    <script async
-                      src="https://js.stripe.com/v3/buy-button.js">
-                    </script>
-
-                    <stripe-buy-button
-                      buy-button-id="buy_btn_1Pa2xbJMk7E9vbKms6ZJ3iC6"
-                      publishable-key="pk_live_51PCRE0JMk7E9vbKmbF9HDjTWn55KRy5agRkuSBIR189izujL3DadWYKxYozwzmxb4rnYoR2sX96xA9nt2sz4uO8S008lETii6p"
-                    >
-                    </stripe-buy-button>
-
-	</center>
-	<hr>
-
+Subscriptions can be found at tab ``Subscriptions`` on the SkyWalk website: https://skywalk.streamlit.app/
 
 
 

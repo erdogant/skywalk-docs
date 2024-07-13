@@ -35,7 +35,6 @@ SkyWalk can be found at: https://skywalk.streamlit.app/
 * Increases your situational awareness.
 
 
-
 .. raw:: html
 
 	<hr>
