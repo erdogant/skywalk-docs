@@ -1,7 +1,17 @@
-Set Password
+Getting Started
 ################
 
-The first time to login
+Starting wity SkyWalk is easy but requires to subscribe first.
+
+	1. Go to the subscription tab and set the checkbox when you have read and agreed with the term and conditions.
+	2. Choose the subscription and press: **Start Trial.**
+	3. Payment is **secured** and routed via **Stripe**. Depending on the type of device (apple, android, PC), payment options will be shown.
+	4. In the Stripe-subscription window, set your **e-mail address**. This e-mail address is also used for SkyWalk.
+	    Note: when using Apple/Android devices, your default e-mail address will used when not filled in.
+	5. A success message will be shown by Stripe when successfully subscribed.
+	6. For the first time login, use your registered e-mail address and set a new password in the password field.
+
+
 
 Subscription
 ################
