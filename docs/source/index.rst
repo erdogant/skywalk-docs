@@ -35,34 +35,6 @@ SkyWalk can be found at: https://skywalk.streamlit.app/
 * Increases your situational awareness.
 
 
-.. raw:: html
-
-	<hr>
-	<center>
-                    <script async
-                      src="https://js.stripe.com/v3/buy-button.js">
-                    </script>
-
-                    <stripe-buy-button
-                      buy-button-id="buy_btn_1Pa2DpJMk7E9vbKm3YlkqYIH"
-                      publishable-key="pk_live_51PCRE0JMk7E9vbKmbF9HDjTWn55KRy5agRkuSBIR189izujL3DadWYKxYozwzmxb4rnYoR2sX96xA9nt2sz4uO8S008lETii6p"
-                    >
-                    </stripe-buy-button>
-
-
-                    <script async
-                      src="https://js.stripe.com/v3/buy-button.js">
-                    </script>
-
-                    <stripe-buy-button
-                      buy-button-id="buy_btn_1Pa2xbJMk7E9vbKms6ZJ3iC6"
-                      publishable-key="pk_live_51PCRE0JMk7E9vbKmbF9HDjTWn55KRy5agRkuSBIR189izujL3DadWYKxYozwzmxb4rnYoR2sX96xA9nt2sz4uO8S008lETii6p"
-                    >
-                    </stripe-buy-button>
-
-	</center>
-	<hr>
-
 
 Content
 =======
