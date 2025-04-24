@@ -8,7 +8,7 @@ Medium Blog
 ############
 
 .. note::
-	`Blog <https://erdogant.medium.com/skywalk-the-tool-for-flight-preparations-51c52d5a1ac0>`_
+	`Skywalk the tool for flight preparations <https://erdogant.medium.com/skywalk-the-tool-for-flight-preparations-51c52d5a1ac0>`_
 
 
 

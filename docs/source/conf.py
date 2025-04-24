@@ -23,7 +23,7 @@ from helper import *
 
 ########################################################################################
 # -- Download rst file -----------------------------------------------------
-# download_file('https://erdogant.github.io/docs/rst/sponsor.rst', "sponsor.rst")
+download_file('https://erdogant.github.io/docs/rst/sponsor.rst', "sponsor.rst")
 download_file('https://erdogant.github.io/docs/rst/add_carbon.add', "add_carbon.add")
 download_file('https://erdogant.github.io/docs/rst/add_top.add', "add_top.add")
 download_file('https://erdogant.github.io/docs/rst/add_bottom.add', "add_bottom.add")
