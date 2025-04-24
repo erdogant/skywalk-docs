@@ -1,12 +1,14 @@
+Sponsor
+############
+
+.. include:: sponsor.rst
+
+
 Medium Blog
 ############
 
 .. note::
-	`Medium Blog: Coming soon (Wishfull thinking) <https://towardsdatascience.com/creating-beautiful-stand-alone-interactive-d3-charts-with-python-804117cb95a7>`_
-
-
-
-
+	`Blog <https://erdogant.medium.com/skywalk-the-tool-for-flight-preparations-51c52d5a1ac0>`_
 
 
 
