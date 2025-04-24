@@ -12,4 +12,4 @@
 
 ## Blog
 * [**Read more details and usage about SkyWalk-docs in this blog!**](https://towardsdatascience.com/SkyWalk-docs)
-* <a href="https://towardsdatascience.com/a-step-by-step-guide-for-clustering-images-4b45f9906128"> <img src="https://img.shields.io/badge/Medium-Blog-blue" alt="Open Blog"/> </a>
+* <a href="https://erdogant.medium.com/skywalk-the-tool-for-flight-preparations-51c52d5a1ac0"> <img src="https://img.shields.io/badge/Medium-Blog-blue" alt="Open Blog"/> </a>
